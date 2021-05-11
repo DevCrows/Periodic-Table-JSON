@@ -1,5 +1,4 @@
-[
- {
+{
    "elements": {
       "name": "Hydrogen",
       "appearance": "colorless gas",
@@ -11429,5 +11428,4 @@
       ],
       "cpk-hex": "bd0d87"
    }
-}
-]
+ }
